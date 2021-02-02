@@ -1,2 +1,2 @@
 # My-First-Portfolio
-website link: #pratikshagaur.gq
+website: pratikshagaur.gq
